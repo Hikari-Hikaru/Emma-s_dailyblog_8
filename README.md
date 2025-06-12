@@ -32,11 +32,9 @@
 </head>
 <body>
   <header>
-    <h1>#SheWasHere</h1>
-    <h2 style="font-size: 0.9em; color: #999;">Some things are safer left unsaid.</h2>
+    <h2>2025_07_05</h2>
   </header>
   <main>
-    <h2>2025_07_05</h2>
     <p>
       Nothing really happened today. Or maybe…<br>
       Maybe I just don't want to write it down.<br><br>
@@ -64,3 +62,4 @@
   </footer>
 </body>
 </html>
+
