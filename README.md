@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>Emma's dailyblog_9</title>
+  <title>Emma's dailyblog_8</title>
   <link rel="stylesheet" href="../style.css">
   <style>
     body {
